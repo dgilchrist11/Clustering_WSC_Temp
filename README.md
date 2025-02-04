@@ -8,6 +8,9 @@ If you have bcgovr installed and you use RStudio, click the 'Insert BCDevex Badg
 Clustering_WSC_Temp
 ============================
 
+### COPIED USING THE BCGOVR PACKAGE, WILL UPDATE WHEN APPLICABLE
+
+
 ### Usage
 
 Describe data being used (links), and how to run. Eg:
